@@ -37,7 +37,11 @@ The application follows a modular structure. `app.py` handles the main Streamlit
 
 ```text
 library/
-
+├── Screenshots
+|   ├──Book_Details.png
+|   ├──Loan_details.png
+|   ├──User_details.png
+|   ├──dashboard.png
 ├── notebooks/
 |   ├──CRUD_library.ipynb
 |   ├──python_sql.ipynb
